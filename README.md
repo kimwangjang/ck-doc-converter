@@ -7,7 +7,7 @@
 
 [최신 설치 파일 받기](https://github.com/kimwangjang/ck-doc-converter/releases/latest)
 
-Assets에서 `문서일괄변환기_설치파일_v….exe`를 받아 실행합니다.
+Assets에서 `ck-doc-converter-setup-v….exe`를 받아 실행합니다.
 
 ## 필요한 프로그램
 
